@@ -1,7 +1,7 @@
 # 💫 About Me:
 📍 I’m from Moscow, Russia<br>🫰 Senior Systems Analyst<br>💻 4+ Years of Experience in IT<br>👨‍💻 Front-end Enthusiast<br>🫂 Love connecting with like-minded people who share a passion for technology and development
 
-# ✉️ Contact me:
+# 📩 Contact me:
 <a href="https://t.me/aivvanov">
     <img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge" alt="Telegram Badge"/>
   </a>
